@@ -1,0 +1,379 @@
+1
+00:00:01,920 --> 00:00:05,800
+Writing one good sales email takes me about twenty minutes.
+
+2
+00:00:06,050 --> 00:00:09,670
+Last week, I wrote 111 of them in one evening.
+
+3
+00:00:09,940 --> 00:00:11,170
+Each one personal.
+
+4
+00:00:11,410 --> 00:00:12,070
+Here's how.
+
+5
+00:00:12,300 --> 00:00:14,370
+Hi, I'm Jefferson from CoLab.
+
+6
+00:00:14,580 --> 00:00:19,250
+We teach airline reservations and hotel systems to college students.
+
+7
+00:00:19,490 --> 00:00:21,950
+Most sales emails sound exactly the same.
+
+8
+00:00:21,970 --> 00:00:24,940
+"Dear Sir or Madam, we offer training."
+
+9
+00:00:24,960 --> 00:00:27,460
+A dean gets dozens of those every week.
+
+10
+00:00:27,710 --> 00:00:29,790
+If an email doesn't name their school,
+
+11
+00:00:29,950 --> 00:00:31,550
+and say why it fits their students,
+
+12
+00:00:31,570 --> 00:00:32,740
+it gets deleted.
+
+13
+00:00:32,760 --> 00:00:36,990
+But writing a personal email for every school takes hours.
+
+14
+00:00:37,240 --> 00:00:38,760
+So I gave that job to Claude.
+
+15
+00:00:39,000 --> 00:00:40,180
+Here's the secret:
+
+16
+00:00:40,200 --> 00:00:43,120
+the email is only as good as what you tell the AI.
+
+17
+00:00:43,330 --> 00:00:46,520
+Before it writes anything, Claude needs four things.
+
+18
+00:00:46,770 --> 00:00:50,330
+One: who I am, and what I sell, in plain words.
+
+19
+00:00:50,540 --> 00:00:53,100
+Two: my offer in three short points,
+
+20
+00:00:53,120 --> 00:00:54,810
+the price, and what I want them to do.
+
+21
+00:00:55,070 --> 00:00:58,790
+For me, that's a fifteen-minute online presentation.
+
+22
+00:00:58,810 --> 00:01:01,990
+Three: my proposal PDF, to attach.
+
+23
+00:01:02,270 --> 00:01:06,290
+And four: my lead sheet, with every school's name,
+
+24
+00:01:06,310 --> 00:01:09,600
+official email, department and the programs it offers.
+
+25
+00:01:09,900 --> 00:01:11,800
+I wrote that once, in one prompt.
+
+26
+00:01:12,030 --> 00:01:14,670
+After that, it works for every school.
+
+27
+00:01:14,930 --> 00:01:17,200
+So what makes each email personal?
+
+28
+00:01:17,220 --> 00:01:19,320
+The subject line has the school's name.
+
+29
+00:01:19,340 --> 00:01:23,780
+The email starts by asking the office to forward it to the dean
+
+30
+00:01:23,800 --> 00:01:26,520
+of their Tourism and Hospitality programs.
+
+31
+00:01:26,780 --> 00:01:30,200
+If the school publishes the dean's name on its official website,
+
+32
+00:01:30,220 --> 00:01:32,230
+it adds an Attention line with that name.
+
+33
+00:01:32,250 --> 00:01:36,220
+Then it only talks about the programs that school actually offers.
+
+34
+00:01:36,470 --> 00:01:39,130
+Tourism only? Just the airline course.
+
+35
+00:01:39,340 --> 00:01:42,640
+Both? Both courses, and both PDFs.
+
+36
+00:01:42,870 --> 00:01:46,890
+And it checks my Google Calendar and offers two real free times
+
+37
+00:01:46,910 --> 00:01:47,860
+for the presentation.
+
+38
+00:01:48,120 --> 00:01:52,600
+Same structure every time, but every email fits that school.
+
+39
+00:01:52,640 --> 00:01:54,000
+Here's the important part.
+
+40
+00:01:54,020 --> 00:01:55,750
+Every one of these is a draft.
+
+41
+00:01:55,770 --> 00:01:57,350
+Nothing is sent.
+
+42
+00:01:57,370 --> 00:01:59,600
+They sit in my Gmail drafts folder,
+
+43
+00:01:59,760 --> 00:02:00,580
+waiting for me.
+
+44
+00:02:00,810 --> 00:02:04,540
+And before it writes a new email, Claude searches my Sent folder.
+
+45
+00:02:04,820 --> 00:02:06,440
+If I've already emailed that school,
+
+46
+00:02:06,620 --> 00:02:08,640
+it does not start a new email.
+
+47
+00:02:08,660 --> 00:02:10,960
+It writes a short follow-up in the same thread.
+
+48
+00:02:11,190 --> 00:02:13,590
+So no dean gets the same proposal twice.
+
+49
+00:02:13,610 --> 00:02:17,270
+That check alone saves you from looking careless in front of
+
+50
+00:02:17,290 --> 00:02:18,500
+a school you want to work with.
+
+51
+00:02:18,520 --> 00:02:22,350
+Before anything goes out, I open five drafts and read them like
+
+52
+00:02:22,370 --> 00:02:23,290
+the dean would.
+
+53
+00:02:23,310 --> 00:02:24,850
+Is the school's name right?
+
+54
+00:02:24,870 --> 00:02:26,360
+Is the right course in it?
+
+55
+00:02:26,380 --> 00:02:27,900
+Is the PDF attached?
+
+56
+00:02:28,170 --> 00:02:31,150
+If something's off, I don't fix each email by hand.
+
+57
+00:02:31,400 --> 00:02:34,240
+I fix the prompt, and let Claude make the drafts again.
+
+58
+00:02:34,480 --> 00:02:36,320
+Two things I learned the hard way.
+
+59
+00:02:36,430 --> 00:02:40,200
+One: if you edit a draft, the attachment can disappear.
+
+60
+00:02:40,430 --> 00:02:41,940
+Make a new draft instead.
+
+61
+00:02:42,120 --> 00:02:46,350
+Two: before sending, ask Claude to list the drafts by school,
+
+62
+00:02:46,560 --> 00:02:47,830
+so nobody gets two.
+
+63
+00:02:48,080 --> 00:02:50,640
+111 drafts. One evening.
+
+64
+00:02:50,660 --> 00:02:53,020
+And I read them before a single one went out.
+
+65
+00:02:53,200 --> 00:02:56,790
+Once I'm happy, I don't hit send on all 111.
+
+66
+00:02:56,810 --> 00:02:59,940
+Send that many at once, and Gmail thinks you're a spammer.
+
+67
+00:03:00,140 --> 00:03:03,660
+Instead, a scheduled task sends 25 at a time,
+
+68
+00:03:03,960 --> 00:03:07,420
+one batch per hour, from 8:30 to 12:30.
+
+69
+00:03:07,650 --> 00:03:10,640
+It only sends drafts with my approved subject lines,
+
+70
+00:03:10,660 --> 00:03:13,640
+so nothing else in my drafts folder goes out by accident.
+
+71
+00:03:13,900 --> 00:03:17,490
+And after each batch, it marks those schools "Proposal Sent"
+
+72
+00:03:17,510 --> 00:03:18,810
+in my lead sheet.
+
+73
+00:03:18,830 --> 00:03:21,680
+And then, about twenty minutes after the first batch,
+
+74
+00:03:21,700 --> 00:03:23,050
+a reply came in.
+
+75
+00:03:23,270 --> 00:03:26,380
+A university's department head had forwarded my proposal to their
+
+76
+00:03:26,400 --> 00:03:29,730
+program dean and staff, asked them to look at the fit and the
+
+77
+00:03:29,750 --> 00:03:32,880
+fee, and to pick one of the two dates I offered.
+
+78
+00:03:33,110 --> 00:03:34,800
+That's what a personal email does.
+
+79
+00:03:35,040 --> 00:03:36,000
+It doesn't just get read.
+
+80
+00:03:36,020 --> 00:03:37,400
+It gets passed on.
+
+81
+00:03:37,650 --> 00:03:38,480
+So remember the rule:
+
+82
+00:03:38,500 --> 00:03:41,100
+Claude prepares. I approve.
+
+83
+00:03:41,320 --> 00:03:42,250
+Then it sends.
+
+84
+00:03:42,500 --> 00:03:46,040
+The AI writes the drafts, but I'm still the one who decides what
+
+85
+00:03:46,060 --> 00:03:48,690
+goes out. If you want to do this for your business,
+
+86
+00:03:48,780 --> 00:03:51,330
+every prompt from this video is in my playbook.
+
+87
+00:03:51,350 --> 00:03:53,430
+The link is in the description.
+
+88
+00:03:53,700 --> 00:03:54,510
+Not ready yet?
+
+89
+00:03:54,710 --> 00:03:57,630
+There's a free starter pack with 10 of my sales prompts,
+
+90
+00:03:57,880 --> 00:03:59,060
+also linked below.
+
+91
+00:03:59,260 --> 00:04:02,050
+And subscribe, because next week I'll show you what happens when
+
+92
+00:04:02,070 --> 00:04:03,250
+the replies come in:
+
+93
+00:04:03,510 --> 00:04:06,350
+how my AI reads them, checks my calendar,
+
+94
+00:04:06,370 --> 00:04:09,320
+and drafts the answer with real free time slots.
+
+95
+00:04:09,620 --> 00:04:10,350
+See you then.
